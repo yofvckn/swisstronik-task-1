@@ -41,7 +41,7 @@ PRIVATE_KEY="your private key"
 - Open contract folder
 - Create Hello_swtr.sol file
 - Copy this code and paste there
-- Check hardhat.config.ts and fill your private keyy on " accounts: [`0x${process.env.PRIVATE_KEY}`] "
+- Check hardhat.config.ts and fill your private key on " accounts: [`0x${process.env.PRIVATE_KEY}`] "
 
 ```
 /// SPDX-License-Identifier: UNLICENSED
